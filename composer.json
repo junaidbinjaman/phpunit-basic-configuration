@@ -1,0 +1,17 @@
+{
+    "name": "junaidbinjaman/phpunit-basic-configuration-master",
+    "autoload": {
+        "psr-4": {
+            "Junaidbinjaman\\PhpunitBasicConfigurationMaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "junaidbinjaman",
+            "email": "me@junaidbinjaman.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.2"
+    }
+}
